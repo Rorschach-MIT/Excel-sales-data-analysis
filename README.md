@@ -15,7 +15,7 @@ This project focuses on cleaning and analyzing messy retail sales data using Mic
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Excel formulas (TRIM, PROPER, IF, AVERAGE)
+- Excel formulas 
 
 ## Key Insights
 - Identified top-performing products
