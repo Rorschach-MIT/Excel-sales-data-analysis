@@ -12,12 +12,14 @@ This project focuses on cleaning and analyzing messy retail sales data using Mic
 - Recalculated total sales
 - Created pivot table analysis
 - Created pivot charts visualization
+- Created a dashboard with filters
 
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Excel formulas 
+- Excel formulas
+- Dashboard
 
 
 ## Key Insights
